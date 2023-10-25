@@ -30,10 +30,9 @@ Alan Mecca
 This project is licensed under the MIT License.
 
 ## Questions
-GITHUB: https://github.com/ajmecca68
+GITHUB: https://github.com/ajmecca68/employee-database
 
 EMAIL: [amecca1968@gmail.com](mailto:amecca1968@gmail.com)
 
 ## Tests
-Run a test? Just type "node test.js" in the command line.
-it will generate a TEST_README.md file.
+
